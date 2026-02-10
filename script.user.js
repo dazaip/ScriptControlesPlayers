@@ -2,7 +2,7 @@
 
 // @name         Player - Controles Mobile Otimizado na web
 
-// @namespace https://github.com/dazaipi/ScriptControlesPlayers
+// @namespace https://github.com/dazaip/ScriptControlesPlayers
 
 // @version      1.4.5
 
