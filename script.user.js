@@ -4,7 +4,7 @@
 
 // @namespace https://github.com/dazaip/ScriptControlesPlayers
 
-// @version      1.4.5
+// @version      1.4.6
 
 // @updateURL    https://raw.githubusercontent.com/dazaip/ScriptControlesPlayers/main/script.user.js
 
