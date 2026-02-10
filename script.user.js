@@ -6,9 +6,9 @@
 
 // @version      1.4.5
 
-// @updateURL    https://raw.githubusercontent.com/dazaipi/ScriptControlesPlayers/main/script.user.js
+// @updateURL    https://raw.githubusercontent.com/dazaip/ScriptControlesPlayers/main/script.user.js
 
-// @downloadURL  https://raw.githubusercontent.com/dazaipi/ScriptControlesPlayers/main/script.user.js
+// @downloadURL  https://raw.githubusercontent.com/dazaip/ScriptControlesPlayers/main/script.user.js
 
 // @description  Controles para vídeos na web na vertical + salvamento de progresso automático
 
