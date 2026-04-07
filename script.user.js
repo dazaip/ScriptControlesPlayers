@@ -10,7 +10,7 @@
 
 // @downloadURL  https://raw.githubusercontent.com/rokurozz/ScriptWebVideos/main/script.user.js
 
-// @description  Controles para vídeos na web na vertical + salvamento de progresso automático
+// @description  Esse script adiciona alguns botões extras sobre o video na web com salvamento de progresso a cada 3s assistidos 
 
 // @match        *://*/*
 
