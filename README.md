@@ -41,7 +41,8 @@ Obs: existe muitos players de video na web, alguns com muita personalização, o
 ## 🚀 Instalação
 
 ### Pré-requisitos
-- Navegador para Android com suporte a extensões (Quetta, Firefox, Edge, e outros)
+- Navegador para Android com suporte a extensões (Firefox, Edge, e outros)
+- Evitem usar o navegador Quetta até que eu remova esse aviso daqui, ele anda problemático ultimamente 
 - Extensão [Tampermonkey](https://www.tampermonkey.net/) instalada
 
 ### Passo a Passo
